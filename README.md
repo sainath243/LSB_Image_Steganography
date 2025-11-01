@@ -99,4 +99,5 @@ Opening image file... Done Verifying magic string... Verified ✅ Extracting fil
 <img width="786" height="383" alt="4" src="https://github.com/user-attachments/assets/8624b9f1-9e40-4333-b836-2e8bd30bae7a" />
 
 👨‍💻 Developed By C.Saianth Aspiring Embedded Systems Engineer | Passionate about C Programming & Digital Security
+
 📧 chennasainath2051@gmail.com
