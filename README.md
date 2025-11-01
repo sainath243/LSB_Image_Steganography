@@ -97,6 +97,7 @@ Opening image file... Done Verifying magic string... Verified ✅ Extracting fil
 ✅ Output written to output.txt 
 📸 Sample Terminal Output: 
 <img width="786" height="383" alt="4" src="https://github.com/user-attachments/assets/8624b9f1-9e40-4333-b836-2e8bd30bae7a" />
+<img width="1145" height="218" alt="6" src="https://github.com/user-attachments/assets/cc10b4e2-75f7-4a70-9f57-a1279738241f" />
 
 👨‍💻 Developed By C.Saianth Aspiring Embedded Systems Engineer | Passionate about C Programming & Digital Security
 
